@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dependencies
 node_modules/
 
@@ -16,3 +17,24 @@ coverage/
 
 # macOS
 .DS_Store
+=======
+.env
+# Dependencies
+node_modules/
+
+# TypeScript build output
+dist/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Logs
+*.log
+
+# Test coverage
+coverage/
+
+# macOS
+.DS_Store
+>>>>>>> f497080506d75310a73da327c84ce32c83acfb15
